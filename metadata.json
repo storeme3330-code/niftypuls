@@ -1,0 +1,6 @@
+{
+  "name": "NiftyPulse AI - Indian Market & Algo Platform",
+  "description": "Intelligent Indian stock & options trading terminal with 5-minute pre-market scanners, live momentum share lists, TradingView charts, automated algo bots, multi-broker integration, and beginner paper trading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
